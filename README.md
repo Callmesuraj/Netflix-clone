@@ -21,7 +21,7 @@ This project replicates the UI of Netflix's homepage.
 
 
 ## 🌐 Live Demo
-(Add GitHub Pages link)
+(https://callmesuraj.github.io/Netflix-clone/)
 
 ## 📁 How to Run
 1. Download the repository
