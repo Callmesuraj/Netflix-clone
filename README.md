@@ -21,7 +21,7 @@ This project replicates the UI of Netflix's homepage.
 
 
 ## 🌐 Live Demo
-(https://callmesuraj.github.io/Netflix-clone/)
+https://netmen.netlify.app/
 
 ## 📁 How to Run
 1. Download the repository
